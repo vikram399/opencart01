@@ -1,0 +1,31 @@
+14:16:55.999 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+14:18:11.863 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+14:18:12.642 [main] INFO  testCases.TC_001AccountRegistrationTest - ****providing details****
+14:18:13.312 [main] INFO  testCases.TC_001AccountRegistrationTest - ****waiting****
+14:18:17.071 [main] INFO  testCases.TC_001AccountRegistrationTest - ****validating exp message****
+14:18:22.644 [main] INFO  testCases.TC_001AccountRegistrationTest - Finished TC_001
+14:21:49.430 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+14:21:50.023 [main] INFO  testCases.TC_001AccountRegistrationTest - ****providing details****
+14:21:50.654 [main] INFO  testCases.TC_001AccountRegistrationTest - ****waiting****
+14:21:54.101 [main] INFO  testCases.TC_001AccountRegistrationTest - ****validating exp message****
+14:21:57.656 [main] INFO  testCases.TC_001AccountRegistrationTest - Finished TC_001
+14:23:11.029 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+14:23:11.500 [main] INFO  testCases.TC_001AccountRegistrationTest - ****providing details****
+14:23:13.160 [main] INFO  testCases.TC_001AccountRegistrationTest - ****waiting****
+14:23:16.656 [main] INFO  testCases.TC_001AccountRegistrationTest - ****validating exp message****
+14:23:20.855 [main] INFO  testCases.TC_001AccountRegistrationTest - Finished TC_001
+14:24:58.569 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+14:27:29.150 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+09:54:25.346 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+09:54:25.616 [main] INFO  testCases.TC_001AccountRegistrationTest - ****providing details****
+09:54:26.038 [main] INFO  testCases.TC_001AccountRegistrationTest - ****waiting****
+09:54:29.323 [main] INFO  testCases.TC_001AccountRegistrationTest - ****validating exp message****
+09:54:31.180 [main] INFO  testCases.TC_001AccountRegistrationTest - Finished TC_001
+10:52:10.651 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+10:52:10.923 [main] INFO  testCases.TC_001AccountRegistrationTest - ****providing details****
+10:52:11.244 [main] INFO  testCases.TC_001AccountRegistrationTest - ****waiting****
+10:52:50.501 [main] INFO  testCases.TC_001AccountRegistrationTest - ****starting TC_001AccountRegistration****
+10:52:50.827 [main] INFO  testCases.TC_001AccountRegistrationTest - ****providing details****
+10:52:51.182 [main] INFO  testCases.TC_001AccountRegistrationTest - ****waiting****
+10:52:54.426 [main] INFO  testCases.TC_001AccountRegistrationTest - ****validating exp message****
+10:52:55.673 [main] INFO  testCases.TC_001AccountRegistrationTest - Finished TC_001

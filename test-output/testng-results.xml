@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-19T14:20:42 IST" name="Suite" finished-at="2024-11-19T14:21:58 IST" duration-ms="75297">
+    <groups>
+    </groups>
+    <test started-at="2024-11-19T14:20:42 IST" name="Test" finished-at="2024-11-19T14:21:58 IST" duration-ms="75297">
+      <class name="testCases.TC_001AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001AccountRegistrationTest@79079097]" started-at="2024-11-19T14:20:42 IST" name="setup" finished-at="2024-11-19T14:21:07 IST" duration-ms="24794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_account_registratoin()[pri:0, instance:testCases.TC_001AccountRegistrationTest@79079097]" started-at="2024-11-19T14:21:07 IST" name="verify_account_registratoin" finished-at="2024-11-19T14:21:57 IST" duration-ms="49882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_account_registratoin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001AccountRegistrationTest@79079097]" started-at="2024-11-19T14:21:57 IST" name="tearDown" finished-at="2024-11-19T14:21:58 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001AccountRegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
